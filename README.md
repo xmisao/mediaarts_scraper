@@ -90,3 +90,9 @@ rake sit_update
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/xmisao/mediaarts_scraper
+
+# MediaartsData
+
+Scraped data is available at https://github.com/xmisao/mediaarts_data
+
+スクレイピング済みのデータは https://github.com/xmisao/mediaarts_data から入手できます。
